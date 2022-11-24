@@ -3,7 +3,7 @@ const dotenv = require('dotenv');
 dotenv.config();
 
 const app = require('./app');
-const orm = require('./models');
+const orm = require('../models');
 
 const PORT = process.env.PORT;
 

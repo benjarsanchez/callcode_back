@@ -4,7 +4,7 @@ const KoaLogger = require('koa-logger');
 const cors = require('@koa/cors');
 const session = require('koa-session');
 const router = require('./routes');
-const orm = require('./models');
+const orm = require('../models');
 
 const app = new Koa();
 
