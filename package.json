@@ -1,6 +1,9 @@
 {
   "name": "grupo-Better-Call-Code-backend",
   "version": "1.0.0",
+  "engines": {
+    "node": "12.11.1"
+  },
   "main": "index.js",
   "type": "commonjs",
   "repository": "https://github.com/IIC2513-2022-2/grupo-Better-Call-Code-backend.git",
